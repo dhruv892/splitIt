@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dhruv892</groupId>
-	<artifactId>ShareIt</artifactId>
+	<artifactId>SplitIt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ShareIt</name>
 	<description>Expense sharing app</description>

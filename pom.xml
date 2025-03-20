@@ -128,7 +128,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.dhruv892.SplitIt.SpringSecurityApplication</mainClass>
+					<mainClass>com.dhruv892.SplitIt.SplitItApplication</mainClass>
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>

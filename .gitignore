@@ -1,6 +1,8 @@
 #credentials for OAUTH2
 application.yml
 
+.mvn/wrapper/maven-wrapper.properties
+
 
 # Compiled class files
 

@@ -11,7 +11,7 @@
 	<groupId>com.dhruv892</groupId>
 	<artifactId>SplitIt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ShareIt</name>
+	<name>SplitIt</name>
 	<description>Expense sharing app</description>
 	<url/>
 	<licenses>
@@ -128,6 +128,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
+					<mainClass>com.dhruv892.SplitIt.SpringSecurityApplication</mainClass>
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
